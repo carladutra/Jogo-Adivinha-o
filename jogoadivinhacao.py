@@ -38,7 +38,8 @@ def jogar_adivinhacao():
         #numeroTentativas = numeroTentativas - 1
         rodada = rodada + 1
 
-
+if(__name__ == "__main__"):
+    jogar_adivinhacao()
 
 
 
